@@ -1,0 +1,6 @@
+/hr-bot
+/.idea
+/venv
+/__pycache__
+/bot/__pycache__
+/logic/__pycache__
